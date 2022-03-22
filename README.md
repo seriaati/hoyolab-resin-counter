@@ -30,8 +30,9 @@ Hoyolab real-time notes feature but on desktop.
 - You should be able to see the results, an example of what you should see is shown below  
 ![image](https://user-images.githubusercontent.com/61446626/159394012-b59892f1-1620-44c1-99b3-87a43223dae8.png)
 - This tool does not receive data in real-time, when you want to check again, press the upward arrow button on your keyboard to run the command again, or type ```python hoylab-resin-counter.py```
+- If you don't want to do the directory thing all over again, just leave the command prompt opened
 
-## Other unimportant things
+## Other things
 - User data is obtained using https://github.com/thesadru/genshinstats
 ### Why make this
 - Real-time notes feature only on hoyolab app but not desktop version
