@@ -26,6 +26,6 @@ Hoyolab real-time notes feature but on desktop.
 - For example
 ```cd C:\Users\seria\Documents```
 - Then run the tool by typing ```python hoylab-resin-counter.py```
-- You should be able to see the results, and example of what you should see is shown below
+- You should be able to see the results, an example of what you should see is shown below  
 ![image](https://user-images.githubusercontent.com/61446626/159394012-b59892f1-1620-44c1-99b3-87a43223dae8.png)
 - This tool does not receive data in real-time, when you want to check again, press the upward arrow button on your keyboard to run the command again, or type ```python hoylab-resin-counter.py```
