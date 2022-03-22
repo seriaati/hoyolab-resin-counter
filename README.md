@@ -7,7 +7,7 @@ Hoyolab real-time notes feature but on desktop.
 - show realm currency
 - show number of expeditions completed
 
-## Setting Up hoyolab-resin-counter
+## Setting up hoyolab-resin-counter
 - Download and install python from https://www.python.org/downloads (Remember to check "Add Python to PATH")
 - If popped up, click "Disable PATH length limit"
 - Download the latest realease of hoyolab-resin-counter and place it somewhere
