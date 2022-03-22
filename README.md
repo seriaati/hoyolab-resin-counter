@@ -6,6 +6,7 @@ Hoyolab real-time notes feature but on desktop.
 - show how much time until resin full
 - show realm currency
 - show number of expeditions completed
+- super duper fast resin checking after you have setup your account
 
 ## Setting up hoyolab-resin-counter
 - Download and install python from https://www.python.org/downloads (Remember to check "Add Python to PATH")
@@ -29,3 +30,10 @@ Hoyolab real-time notes feature but on desktop.
 - You should be able to see the results, an example of what you should see is shown below  
 ![image](https://user-images.githubusercontent.com/61446626/159394012-b59892f1-1620-44c1-99b3-87a43223dae8.png)
 - This tool does not receive data in real-time, when you want to check again, press the upward arrow button on your keyboard to run the command again, or type ```python hoylab-resin-counter.py```
+
+## Other unimportant things
+- User data is obtained using https://github.com/thesadru/genshinstats
+### Why make this
+- Real-time notes feature only on hoyolab app but not desktop version
+- Even using the app, it takes so long to check the resin
+- I don't play on my phone and I use my laptop most of the time, so I always forget checking my resin
