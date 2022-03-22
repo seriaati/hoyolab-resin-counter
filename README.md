@@ -35,5 +35,5 @@ Hoyolab real-time notes feature but on desktop.
 - User data is obtained using https://github.com/thesadru/genshinstats
 ### Why make this
 - Real-time notes feature only on hoyolab app but not desktop version
-- Even using the app, it takes so long to check the resin
+- Even using the app, I have to make 1000 taps to reach the real-time notes menu
 - I don't play on my phone and I use my laptop most of the time, so I always forget checking my resin
