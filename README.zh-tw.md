@@ -30,7 +30,6 @@ Hoyolab的實時便籤功能，但在電腦上實現。
 - 透過 ```cd``` 指令來進入 hoyolab-resin-counter.py 所在的資料夾
 - 例如：
 ```cd C:\Users\seria\Documents```
-- Then run the tool by typing ```python hoylab-resin-counter.py```
 - 接著使用 ```python hoyolab-resin-counter.py``` 指令來執行hoyolab-resin-counter
 - 下面是你在運行指令後應該在命令視窗應該見到的畫面：  
 ![image](https://user-images.githubusercontent.com/61446626/159394012-b59892f1-1620-44c1-99b3-87a43223dae8.png)
