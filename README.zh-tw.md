@@ -1,4 +1,6 @@
 # hoyolab-resin-counter
+![hoyolab-resin-counter (Small)](https://user-images.githubusercontent.com/61446626/159615993-8801f175-84b7-4361-bf65-7fb70708341a.png)
+
 Hoyolab的實時便籤功能，但在電腦上實現。
 
 ## 功能
@@ -19,24 +21,24 @@ Hoyolab的實時便籤功能，但在電腦上實現。
 - 按F12或是透過ctrl+shift+I的快捷鍵來開啟開發者工具的界面
 - 在開發者工具中 -> 應用程式 -> Cookies -> https://www.hoyolab.com/home
 - 找到並複製 ltuid 與 ltoken
-- Right click hoyolab-resin-counter.py and "Edit with IDLE" -> "Edit with IDLE"
 - 右鍵hoyolab-resin-counter.py -> 「Edit with IDLE」
-- Paste your ltuid, ltoken, and putin your uid
+- 將剛剛複製的 ltuid, ltoken 以及你的遊戲 uid 放上
 
-## Running hoyolab-resin-counter
-- Whenever you want to check your resin (or other things), open up a command prompt
-- Head toward the directory where hoyolab-resin-counter.py is located using the ```cd``` command
-- For example
+## 運行hoyolab-resin-counter
+- 使用 Win+R 快捷鍵並輸入「cmd」來打開命令視窗
+- 透過 ```cd``` 指令來進入 hoyolab-resin-counter.py 所在的資料夾
+- 例如：
 ```cd C:\Users\seria\Documents```
 - Then run the tool by typing ```python hoylab-resin-counter.py```
-- You should be able to see the results, an example of what you should see is shown below  
+- 接著使用 ```python hoyolab-resin-counter.py``` 指令來執行hoyolab-resin-counter
+- 下面是你在運行指令後應該在命令視窗應該見到的畫面：
 ![image](https://user-images.githubusercontent.com/61446626/159394012-b59892f1-1620-44c1-99b3-87a43223dae8.png)
-- This tool does not receive data in real-time, when you want to check again, press the upward arrow button on your keyboard to run the command again, or type ```python hoylab-resin-counter.py```
-- If you don't want to do the directory thing all over again, just leave the command prompt opened
+- hoyolab-resin-counter並不會自動更新這些數據，如果你想再確認一遍，按方向鍵的「上」或是再輸入一次 ```python hoylab-resin-counter.py``` 的指令
+- 如果你不想重複進行導入資料夾的步驟，保持開啟命令視窗
 
-## Other things
-- User data is obtained using https://github.com/thesadru/genshinstats
-### Why make this
-- Real-time notes feature only on hoyolab app but not desktop version
-- Even using the app, I have to make 1000 taps to reach the real-time notes menu
-- I don't play on my phone and I use my laptop most of the time, so I always forget checking my resin
+## 其他事項
+- 使用者資料是由 https://github.com/thesadru/genshinstats 導入
+### 這有什麼用處？
+- 目前，hoyolab的實時便籤功能只有在手機app才有，而且需要按好多個按鍵才能查看，不是非常迅速且便利
+- 同時，我都是用我的筆電來玩原神的，所以我很常忘記用手機查看樹脂，導致160/160頻頻出現
+- 我找不到能實現這樣功能的工具，所以我就自己做了一個
