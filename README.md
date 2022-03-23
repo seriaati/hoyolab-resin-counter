@@ -16,12 +16,8 @@ Hoyolab real-time notes feature but on desktop.
 - Download the latest realease of hoyolab-resin-counter and place it somewhere
 
 ### Adding your account
-- Go to https://www.hoyolab.com and login your account.
-- F12 or ctrl+shift+I to open up the developer tools menu.
-- In the developer tools menu -> Application -> Cookies -> https://www.hoyolab.com/home
-- Copy ltuid and ltoken
 - Right click hoyolab-resin-counter.py and "Edit with IDLE" -> "Edit with IDLE"
-- Paste your ltuid, ltoken, and putin your uid
+- Put in your uid (you have to login your account on https://www.hoyolab.com/home in your browser for this to work)
 
 ## Running hoyolab-resin-counter
 - Whenever you want to check your resin (or other things), open up a command prompt
