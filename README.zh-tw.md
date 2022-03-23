@@ -1,3 +1,4 @@
+[English](https://github.com/seriaati/hoyolab-resin-counter/blob/main/README.md) | 中文
 # hoyolab-resin-counter
 ![hoyolab-resin-counter (Small)](https://user-images.githubusercontent.com/61446626/159615993-8801f175-84b7-4361-bf65-7fb70708341a.png)
 
