@@ -33,7 +33,8 @@ Hoyolab的實時便籤功能，但在電腦上實現。
 - Then run the tool by typing ```python hoylab-resin-counter.py```
 - 接著使用 ```python hoyolab-resin-counter.py``` 指令來執行hoyolab-resin-counter
 - 下面是你在運行指令後應該在命令視窗應該見到的畫面：
-![image](https://user-images.githubusercontent.com/61446626/159394012-b59892f1-1620-44c1-99b3-87a43223dae8.png)
+\n![image](https://user-images.githubusercontent.com/61446626/159394012-b59892f1-1620-44c1-99b3-87a43223dae8.png)
+- 資料依序是：uid, 樹脂數量, 最大樹脂剩餘時間, 塵歌壺幣數量, 已派遣的探索數量
 - hoyolab-resin-counter並不會自動更新這些數據，如果你想再確認一遍，按方向鍵的「上」或是再輸入一次 ```python hoylab-resin-counter.py``` 的指令
 - 如果你不想重複進行導入資料夾的步驟，保持開啟命令視窗
 
