@@ -17,10 +17,10 @@ Hoyolab的實時便籤功能，但在電腦上實現。
 ### 新增你的帳號
 - 到 https://www.hoyolab.com 並登入你的帳號
 - 按F12或是透過ctrl+shift+I的快捷鍵來開啟開發者工具的界面
-- In the developer tools menu -> Application -> Cookies -> https://www.hoyolab.com/home
-- 在開發者工具中 -> 
-- Copy ltuid and ltoken
+- 在開發者工具中 -> 應用程式 -> Cookies -> https://www.hoyolab.com/home
+- 找到並複製 ltuid 與 ltoken
 - Right click hoyolab-resin-counter.py and "Edit with IDLE" -> "Edit with IDLE"
+- 右鍵hoyolab-resin-counter.py -> 「Edit with IDLE」
 - Paste your ltuid, ltoken, and putin your uid
 
 ## Running hoyolab-resin-counter
