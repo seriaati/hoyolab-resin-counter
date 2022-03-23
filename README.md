@@ -1,14 +1,14 @@
 English | [中文](https://github.com/seriaati/hoyolab-resin-counter/blob/main/README.zh-tw.md)
-# hoyolab-resin-counter
 ![hoyolab-resin-counter (Small)](https://user-images.githubusercontent.com/61446626/159615993-8801f175-84b7-4361-bf65-7fb70708341a.png)
+# hoyolab-resin-counter
 Hoyolab real-time notes feature but on desktop.
 
 ## Features
-- show your current resin
-- show how much time until resin full
-- show realm currency
-- show number of expeditions completed
-- super duper fast resin checking after you have setup your account
+- Shows your current resin
+- Shows how much time until resin is full
+- Shows realm currency
+- Shows number of expeditions completed
+- Super duper fast resin checking after you have setup your account
 
 ## Setting up hoyolab-resin-counter
 - Download and install python from https://www.python.org/downloads (Remember to check "Add Python to PATH")
@@ -16,7 +16,7 @@ Hoyolab real-time notes feature but on desktop.
 - Download the latest realease of hoyolab-resin-counter and place it somewhere
 
 ### Adding your account
-- go to https://www.hoyolab.com and login your account.
+- Go to https://www.hoyolab.com and login your account.
 - F12 or ctrl+shift+I to open up the developer tools menu.
 - In the developer tools menu -> Application -> Cookies -> https://www.hoyolab.com/home
 - Copy ltuid and ltoken
