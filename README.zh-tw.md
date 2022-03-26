@@ -24,6 +24,7 @@ Hoyolab的實時便籤功能，但在電腦上實現。
 
 ## 運行hoyolab-resin-counter
 - 使用 Win+R 快捷鍵並輸入「cmd」來打開命令視窗
+- ```pip install genshin```
 - 透過 ```cd``` 指令來進入 hoyolab-resin-counter.py 所在的資料夾
 - 例如：
 ```cd C:\Users\seria\Documents```
