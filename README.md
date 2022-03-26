@@ -22,6 +22,7 @@ Hoyolab real-time notes feature but on desktop.
 
 ## Running hoyolab-resin-counter
 - Whenever you want to check your resin (or other things), open up a command prompt
+- Type ```pip install genshin```
 - Head toward the directory where hoyolab-resin-counter.py is located using the ```cd``` command
 - For example
 ```cd C:\Users\seria\Documents```
